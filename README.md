@@ -18,42 +18,21 @@ O objetivo é importar múltiplos arquivos CSV contendo dados de vendas com inco
 
 ## 📂 Estrutura do Projeto
 
-```text
-etl-vendas-python/
-│
-├── data/
-│   ├── raw/
-│   └── processed/
-│
-├── logs/
-│
-├── src/
-│   ├── etl.py
-│   └── gerar_dados.py
-│
-├── requirements.txt
-└── README.md
-```
+![Estrutura do Projeto](assets/estrutura-projeto.png)
 
 ---
 
 ## 🔄 Fluxo do ETL
 
-O processo executa as seguintes etapas:
+![Fluxo do ETL](assets/fluxo-etl.png)
 
-1. Leitura automática dos arquivos CSV.
-2. Consolidação dos dados.
-3. Validação da estrutura das colunas.
-4. Padronização de datas.
-5. Padronização de quantidades.
-6. Padronização de preços.
-7. Tratamento de valores nulos.
-8. Remoção de registros duplicados.
-9. Criação das colunas calculadas:
-   - faturamento
-   - ano_mes
-10. Exportação do dataset tratado.
-11. Geração do log de processamento.
+---
+
+## ▶️ Execução
+
+Ao executar o script `etl.py`, o processo consolida os arquivos CSV, aplica todas as etapas de tratamento dos dados, gera o dataset final e registra um resumo do processamento.
+
+![Execução do ETL](assets/execucao-etl.png)
 
 ---
 
