@@ -1,0 +1,7 @@
+﻿id_venda;data_venda;id_cliente;produto;categoria;quantidade;preco_unitario;vendedor;regiao
+V021;2026/05/05;C021;Monitor;eletrônicos;1;1450.00;João Santos;Nordeste
+V022;2026/05/11;C022;Teclado;ACESSÓRIOS;2;180.00;Ana Souza;Centro-Oeste
+V023;2026/05/17;C023;Webcam;Acessórios;1;350.00;Carlos Lima;Sul
+V024;2026/05/22;C024;Cadeira Gamer;Móveis;1;1250.00;Mariana Alves;Sudeste
+V025;2026/05/29;C025;Impressora;Eletrônicos;1;900.00;João Santos;Nordeste
+V010;2026-02-25;C010;Notebook;ELETRÔNICOS;1;4200.00;Carlos Lima;Sul

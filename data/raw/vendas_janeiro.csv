@@ -1,0 +1,6 @@
+﻿id_venda;data_venda;id_cliente;produto;categoria;quantidade;preco_unitario;vendedor;regiao
+V001;05/01/2026;C001;Notebook;Eletrônicos;1;3500,00;Ana Souza;Sudeste
+V002;10/01/2026;C002;Mouse;Acessórios;2;85,50;Carlos Lima;Sul
+V003;15/01/2026;C003;Teclado;Acessórios;1;150,00;Mariana Alves;Sudeste
+V004;20/01/2026;C004;Monitor;Eletrônicos;2;1200,00;João Santos;Nordeste
+V005;25/01/2026;C005;Cadeira Gamer;Móveis;1;950,00;Ana Souza;Centro-Oeste

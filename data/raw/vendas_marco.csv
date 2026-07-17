@@ -1,0 +1,6 @@
+﻿id_venda;data_venda;id_cliente;produto;categoria;quantidade;preco_unitario;vendedor;regiao
+V011;03-03-2026;C011;Mouse;acessórios;3;90,00;Mariana Alves;sudeste
+V012;09-03-2026;C012;Monitor;Eletrônicos;1;1350,00;João Santos;NORDESTE
+V013;15-03-2026;C013;Cadeira Gamer;Móveis;;1100,00;Ana Souza;Centro-Oeste
+V014;21-03-2026;;Teclado;Acessórios;2;175,00;Carlos Lima;Sul
+V015;28-03-2026;C015;Webcam;Acessórios;1;;Mariana Alves;Sudeste

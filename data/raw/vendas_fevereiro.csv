@@ -1,0 +1,6 @@
+﻿id_venda;data_venda;id_cliente;produto;categoria;quantidade;preco_unitario;vendedor;regiao
+V006;2026-02-03;C006;Webcam;Acessórios;1;320.00;Carlos Lima;Sul
+V007;2026-02-08;C007;Headset;Acessórios;2;210.50;Mariana Alves;Sudeste
+V008;2026-02-14;C008;Impressora;Eletrônicos;1;780.00;João Santos;Nordeste
+V009;2026-02-19;C009;Mesa Escritório;Móveis;1;650.00; Ana Souza ;Centro-Oeste
+V010;2026-02-25;C010;Notebook;ELETRÔNICOS;1;4200.00;Carlos Lima;Sul

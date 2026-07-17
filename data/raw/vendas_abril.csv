@@ -1,0 +1,6 @@
+﻿id_venda;data_venda;id_cliente;produto;categoria;quantidade;preco_unitario;vendedor;regiao
+V016;04/05/2026;C016;Impressora;Eletrônicos;1 unidade;820,00;João Santos;Nordeste
+V017;10/04/2026;C017;Mesa Escritório;Móveis;2;700,00;Ana Souza;Centro-Oeste
+V018;18/04/2026;C018;Headset;Acessórios;dois;230,00;Carlos Lima;Sul
+V019;23/04/2026;C019; Notebook ;Eletrônicos;1;3900,00;Mariana Alves;Sudeste
+V020;30/04/2026;C020;Mouse;Acessórios;4;95,00;;Sul
